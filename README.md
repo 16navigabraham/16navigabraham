@@ -8,9 +8,12 @@ Hi, I’m Adebanjo Abraham (@16navigabraham)  <br>🚀 I'm passionate about bloc
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=@16navigabraham&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=@16navigabraham&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=@16navigabraham&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<ul>
+<li><a target="_blank" href=""></a></li>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=16navigabraham&show_icons=true&locale=en" alt="16navigabraham" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=16navigabraham&" alt="16navigabraham" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=16navigabraham&show_icons=true&locale=en&layout=compact" alt="16navigabraham" /></p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
