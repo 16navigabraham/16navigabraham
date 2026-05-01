@@ -20,7 +20,7 @@
   ## 💫 About Me
 
   - ⚙️ I write **backend infrastructure** (Node, Express, Postgres) and **smart contracts** with care.
-  - 🎨 I vibe-code frontends with AI — they ship; the engine room is mine.
+  - 🎨 I vibe-code frontends with AI : they ship; the engine room is mine.
   - 🧱 Currently building Uniswap v4 hooks (Atrium UHI), DeFi tooling, and bots that serve real users.
   - 📍 Akure, Nigeria · FUTA · interning at [Web3Nova](https://www.web3nova.org).
 
