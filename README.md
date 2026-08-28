@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Adebanjo Abraham</h1>
-<h3 align="center">Web3 & AI Agent Infrastructure</h3>
+<h3 align="center">Web3 & AI Agent Infrastructure Engineer</h3>
 <p align="center">I build the systems connecting smart contracts, backends, and AI agents to the people who use them.</p>
 
 <p align="center">
