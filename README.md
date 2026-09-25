@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Adebanjo Abraham</h1>
-<h3 align="center">Web3 & AI Agent Infrastructure Engineer</h3>
-<p align="center">I build the systems connecting smart contracts, backends, and AI agents to the people who use them.</p>
+<h3 align="center">Backend & Systems Engineer · Web3 & AI Agent Infrastructure</h3>
+<p align="center">I build resilient backend systems, agent infrastructure, and smart contracts, and connect them to the people who actually use them.</p>
 
 <p align="center">
   <a href="https://x.com/AbrahamNAVIG1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
@@ -15,10 +15,11 @@
 
 ## About
 
-- Backend infrastructure (Node, Express, Postgres, Drizzle) and smart contracts, built with care.
-- AI agents that run real errands over WhatsApp and Telegram for real users.
-- Currently building Uniswap v4 hooks (Atrium UHI), DeFi tooling, and production bots.
-- Akure, Nigeria · FUTA · Core Contributor at [Web3Nova](https://www.web3nova.org).
+- Backend & Integration Engineer at **ASAP**, architecting an omnichannel agent backend (Telegram, web, MCP tool-calling) on AWS.
+- Previously Backend Engineer at **CLIQI**, building event-driven, idempotent pipelines for non-custodial wallet infrastructure.
+- Software Engineering Intern at **Web3Nova**, shipping automated attendance and content-processing pipelines.
+- Graduate Fellow, **Uniswap Hook Incubator** (Cohort 10) — Atrium Academy / Uniswap Foundation.
+- Akure, Nigeria · Final-year IT student, FUTA.
 
 ---
 
@@ -27,18 +28,18 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>Smart Contracts</h4>
-      Solidity · Foundry · Stellar Soroban (Rust). Gas-aware, tested, no shortcuts on access control.
+      <h4>Backend & Cloud Infrastructure</h4>
+      Node.js/TypeScript APIs · PostgreSQL, MySQL, Redis · AWS (VPC, RDS, Lightsail) · Cloudflare · Docker · Linux systems administration.
     </td>
     <td valign="top" width="50%">
-      <h4>Backend Infrastructure</h4>
-      Express APIs · Drizzle + Postgres · JWT/wallet auth · rate limiting · retention policies.
+      <h4>Smart Contracts</h4>
+      Solidity · Foundry. Gas-aware, tested, no shortcuts on access control.
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h4>AI Agents & Systems Design</h4>
-      Claude-driven agents over WhatsApp and Telegram · tool-calling · webhook security · queueing.
+      MCP server endpoints for Claude/Cursor tool-calling · Claude-driven agents over WhatsApp and Telegram · webhook security · idempotent execution.
     </td>
     <td valign="top" width="50%">
       <h4>Web3 Product Glue</h4>
@@ -51,34 +52,29 @@
 
 ## Tech I Reach For
 
+**Backend & Cloud**
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
+
 **Smart Contracts**
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-000000?style=for-the-badge&logo=openzeppelin&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI & Agents**
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Infra**
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-000000?style=for-the-badge&logo=upstash&logoColor=white)
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
