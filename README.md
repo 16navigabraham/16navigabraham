@@ -15,7 +15,7 @@
 
 ## About
 
-- Backend & Integration Engineer at **ASAP**, architecting an omnichannel agent backend (Telegram, web, MCP tool-calling) on AWS.
+- Backend & Integration Engineer at **ASAP**, architecting the backend for a live, multi-vertical AI agent commerce platform (airtime, data, utility bill pay, rides, local merchant orders, wallet & P2P transfers) across Telegram, web, and MCP tool-calling, on AWS.
 - Previously Backend Engineer at **CLIQI**, building event-driven, idempotent pipelines for non-custodial wallet infrastructure.
 - Software Engineering Intern at **Web3Nova**, shipping automated attendance and content-processing pipelines.
 - Graduate Fellow, **Uniswap Hook Incubator** (Cohort 10) — Atrium Academy / Uniswap Foundation.
